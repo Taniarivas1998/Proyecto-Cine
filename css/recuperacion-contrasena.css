@@ -1,0 +1,12 @@
+main{
+    margin: 0px;
+}
+section{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.imagen-error{
+    border: solid 2px rgb(42,107,137);
+}

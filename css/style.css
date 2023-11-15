@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+}
+header nav{
+    width: 100%;
+    background-color: black;
+    font-family: 'oswald', sans-serif;
+    margin: 0px;
+}
+.logo-cine{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    padding: 10px;
+}
+.boton-register{
+    background-color: rgb(226, 84, 210);
+}
+.text-login{
+    font-family: 'oswald',sans-serif;
+    padding: 2px;
+    text-decoration: underline;
+}
+.boton-register:hover{
+    background-color: white;
+    color: black;
+}
+main{
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+.img-principal{
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+#imgrollo{
+    padding: 16px;
+    height: 300px;
+    width: 550px;
+    object-fit: cover;
+    border: 2px solid rgb(199, 82, 146);
+}
+.img-principal p{
+    color: white;
+    font-size: 18px;
+    font-family: 'Oswald',sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    font-family: 'oswald',sans-serif;
+    color: rgb(42, 107, 137);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contenedor-card{
+    display: grid;
+    grid-template-columns:repeat( auto-fit, minmax(320px,1fr)) ;
+    gap: 0.4rem;
+}
+.product-card{
+    border:  2px solid rgb(199, 82, 146);
+    width: 75%;
+    height: 350px;
+    overflow: hidden;
+    margin: 4px auto;
+    box-shadow: 2px 2px 8px 0px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+   background-color:black;
+}
+.card-header {
+    height: 500px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color:rgba(96, 94, 94, 0.366);
+}
+#imgservicio{
+    height: 200px;
+    width: 350px;
+    object-fit: cover;
+    border:black solid 1px;
+}
+.card-main{
+    height: 150px;
+    margin: 5px;
+    padding: 4px 6px 16px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+}
+.card-main h2{
+     border-bottom:  2px dotted rgb(199, 82, 146);
+     font-size: 19px;
+     font-family: 'Oswald',sans-serif;
+    color: white;
+}
+.card-main .card-description{
+    flex: 1;
+}
+.card-main p{
+    font-size: 15px;
+    line-height: 17px; 
+    display: -webkit-box;
+    -webkit-box-orient: vertical; 
+   -webkit-line-clamp: 3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 2px;
+    padding: 3px 1px 1px 9px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+.card-footer{
+    padding: 4px;
+    height: 60px;
+    background-color:black;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card-details{
+  font-family: 'Oswald',sans-serif;
+  height: 20px;
+  width: 80%;
+}
+.card-footer button{
+    background-color: rgb(199, 82, 146);
+    color: white;
+    padding: 4px;
+    font-size: 10px;
+    border:1px solid transparent;
+    border-radius: 6px;
+    font-weight: 100;
+    cursor: pointer;
+    transition: all .2s ease-in;
+}
+.card-footer button:hover{
+    background-color: white;
+    border-color:rgb(199, 82, 146);
+    font-size: 12px;
+    color:black;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    font-family: 'Oswald',sans-serif;
+    height: max-content;
+    padding: 10px;
+    margin: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.main-footer{
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+}
+#imgfooter{
+    border-radius: 50%;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.main-copyright{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+}
+.main-contact{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    padding: 40px;
+}

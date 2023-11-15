@@ -1,0 +1,64 @@
+main{
+    margin: 0px;
+    }
+    .main-container{   
+        font-family: 'oswald',sans-serif;
+    }
+    .main-container h1{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color: rgb(42,107,137);
+    }
+    .contact-total{
+        display:flex;
+        flex-direction: column;
+        padding: 10px;
+        min-height: 600px;
+    } 
+    .contact-container{
+        border: solid 2px rgb(42,107,137);
+        padding: 10px;
+        background-color: black;
+    }
+    .contact-form{
+        display: grid;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .form-text a{
+        color:white;
+        font-size:15px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-family: 'oswald',sans-serif;
+    }
+    .contact-otro p{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .contact-otro .google-facebook{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .contact-otro .google-facebook a{
+        text-decoration: none;
+        color: rgb(42,107,137);
+    }
+    .container-img{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+     
+    }
+    .contact-img{
+        padding: 3px;
+        background-color: black;
+        border: solid 2px rgb(199, 82, 146);
+    }
+    footer{
+        margin: 0px;
+    }
