@@ -1,7 +1,7 @@
 # PROYECTO BA-MULTIPLICA: CINEMA
 <strong>CINEMA</strong>  es una de las plataformas de reseñas del mundo del entretenimiento más completa y actualizada del mercado, ofreciendo una amplia variedad de categorías y siguendo las tendencias del momento. 
 
-<img>../imagenes/salaDeCine.jpg</img>
+<img  src="../imagenes/logo.jpg"  alt="Logo cine"></img>
 
 <h2>Programadora Encargada de la Pagina:</h2>
 
