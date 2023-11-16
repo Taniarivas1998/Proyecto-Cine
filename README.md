@@ -4,5 +4,5 @@
 <img  width="1000px" height="500px"  src="/imagenes/sesionCine.jpeg"  alt="Logo cine"></img>
 
 <h2>Programadora Encargada de la Pagina:</h2>
-<img  width="500px" height="500px"  src="/imagenes/sesionCine.jpeg"  alt="Logo cine"></img>
+<img  width="500px" height="500px"  src="/imagenes/programador.jpeg"  alt="programador"></img>
 Hola! Me presento mi nombre es <strong>Tania Rivas</strong>, tengo 25 años, soy de Concepcion-Tucuman. Estudio "Ing. Mecanica" en la UTN-FRT, pero me apasiona la programacion, actualmente me encuentro cursando en BA-2.0, en la rama de programacion Front end, donde desarrollo nuevas habilidades y conocimientos.
