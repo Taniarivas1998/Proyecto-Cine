@@ -1,7 +1,7 @@
 # PROYECTO BA-MULTIPLICA: CINEMA
 <strong>CINEMA</strong>  es una de las plataformas de reseñas del mundo del entretenimiento más completa y actualizada del mercado, ofreciendo una amplia variedad de categorías y siguendo las tendencias del momento. 
 
-![Logo-Cinema: https://townsquare.media/site/488/files/2016/08/Movie-Theater.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89]
+<img>../imagenes/salaDeCine.jpg</img>
 
 <h2>Programadora Encargada de la Pagina:</h2>
 
